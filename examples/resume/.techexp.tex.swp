@@ -1,0 +1,28 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Technical Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {} % Job title
+    {} % Leave Blank
+    {} % Leave Blank
+    {May. 2015 - Sept. 2016} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Created and integrated starter development documents into media wiki improving performance of new employees from 2 weeks to 2 days.}
+        \item {Composed modular reports used by customers contributing to an overall customer satisfaction rating above 92\%.}
+        \item {Proposed algorithms used to solve automation and emailing of crucial maritime information.}
+        \item {Analyzed performance through time spent on programming tasks, using JIRA, leading to an increase in performance by approximately 20\%.}
+        \item {Applied well known software engineering techniques, such as modularity and use cases, adding to the existing solid n-tier architecture product.}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+\end{cventries}
