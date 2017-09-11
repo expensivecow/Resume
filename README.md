@@ -1,1 +1,1 @@
-# Resume
+# Resume based off of posquit0's Awesome-CV LateX template.
