@@ -82,9 +82,11 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
+\input{resume/programming.tex}
 \input{resume/education.tex}
 \input{resume/workexp.tex}
 \input{resume/techexp.tex}
+\input{resume/interests.tex}
 
 %-------------------------------------------------------------------------------
 \end{document}
