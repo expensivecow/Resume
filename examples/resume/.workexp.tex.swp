@@ -10,10 +10,10 @@
 \begin{cventries}
 
 %---------------------------------------------------------
-  \cventry
+  \cvtechentry
     {Junior Software Engineer} % Job title
     {Saab Technologies Ltd.} % Organization
-    {Canada} % Location
+    {} % Location
     {May. 2015 - Sept. 2016} % Date(s)
     {
       \begin{cvitems} % Description(s) of tasks/responsibilities
@@ -26,10 +26,10 @@
     }
 
 %---------------------------------------------------------
-  \cventry
+  \cvtechentry
     {Computer Engineer Assistant} % Job title
     {Computer for Schools} % Organization
-    {Canada} % Location
+    {} % Location
     {March 2012 - April. 2012} % Date(s)
     {
       \begin{cvitems} % Description(s) of tasks/responsibilities
